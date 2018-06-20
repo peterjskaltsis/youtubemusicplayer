@@ -1,0 +1,21 @@
+{
+  "name": "Youtube Music Player",
+  "version": "1.0.0",
+  "description": "A minimal, desktop version of the Youtube Music Player ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/p-skal/youtubemusic-player",
+  "keywords": [
+    "Youtube Music",
+    "desktop",
+    "music",
+    "player",
+    "streaming"
+  ],
+  "author": "Peter S.",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
