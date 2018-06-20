@@ -14,7 +14,7 @@ This is a simple Youtube Music player for you to run as an app, similar to spoti
 
 Download the installer below and run the app, sign in to your Youtube account (this is purely an interaction with Google) and enjoy the tunes!
 
-Download the installer [here](https://nofile.io/f/WfJef8jpqsH/Youtube+Music+Player.dmg)
+Download the installer [here](https://www.dropbox.com/s/5vdvfnbh7eo5e2r/Youtube%20Music%20Player.dmg?dl=0)
 
 **For Windows**
 
