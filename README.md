@@ -17,6 +17,7 @@ Download the installer below and run the app, sign in to your Youtube account (t
 Download the installer [here]('https://nofile.io/f/WfJef8jpqsH/Youtube+Music+Player.dmg')
 
 **For Windows**
+
 *Coming soon, subject to demand!* 
 
 ## Suggestions
